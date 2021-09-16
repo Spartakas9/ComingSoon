@@ -5,13 +5,13 @@
 
 # Coming soon
 
-_25 Group website project_
+_Website project_
 
 This project is for educational porpuses only.
 
-Site published at https://spartakas9.github.io/4-Sign-up/
+Site published at https://spartakas9.github.io/ComingSoon/
 
-Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
+Design: [Coming soon](https://cdn.discordapp.com/attachments/648536139677958156/651479019476221953/coming-soon-wide.png)
 
 ## Project features
 
