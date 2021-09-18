@@ -94,15 +94,30 @@ main .block-description > a:hover {
 
 /* footer section */
 
-footer {
+footer.container {
     text-align: center;
     line-height: 30px;
     color: #fff9;
+    padding-top: 0;
 }
 
-footer .fa {
+.container > .socials {
+    padding: 10px 0;
+    border-bottom: 2px solid #fff;
+}
+
+.socials > .fa {
+    width: 40px;
     font-size: 20px;
+    line-height: 36px;
     color: #fff;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+
+.socials > .fa:hover {
+    background-color: #fff;
+    color: #2DBFFA;
 }
 
 footer a {
