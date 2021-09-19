@@ -81,6 +81,83 @@ main .block-description > a:hover {
     text-decoration: underline;
 }
 
+main .form {
+    display: inline-block;
+    width: 100%;
+    margin-top: 15px;
+}
+
+main .form-name {
+    display: inline-block;
+    float: left;
+    width: 48%;
+}
+
+main .form-email {
+    display: inline-block;
+    float: right;
+    width: 49%;
+}
+
+main .form-name > input {
+    display: inline-block;
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+
+main .form-email > input {
+    display: inline-block;
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+
+main .form-message {
+    display: inline-block;
+    width: 100%;
+    margin-top: 20px;
+}
+
+main .form-message > label {
+    display: inline-block;
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgb(129, 129, 129);
+
+}
+
+main .form-message > textarea {
+    display: inline-block;
+    width: 100%;
+    font-size: 18px;
+    line-height: 26px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+
+main .form-btn > .btn {
+    margin-top: 30px;
+    float: right;
+    padding: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #EA1E63;
+    color: #fff;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+
 @media (max-width: 900px) {
     .left-column {
         width: 100%;
