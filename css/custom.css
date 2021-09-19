@@ -101,7 +101,7 @@ footer.container {
     padding-top: 0;
 }
 
-.container >.socials {
+.container > .socials {
     padding: 10px 0;
     border-bottom: 2px solid #fff;
 }
